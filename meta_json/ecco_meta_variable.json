@@ -1,4 +1,8 @@
 {
+  "TRAC01": {
+    "long_name": "trace_salinity concentration",
+    "units": "kg/kg"
+  }, 
   "ADVr_SLT": {
     "long_name": "Vertical   Advective Flux of Salinity", 
     "units": "psu.m^3/s"
